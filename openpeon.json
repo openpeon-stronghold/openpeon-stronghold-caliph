@@ -1,8 +1,8 @@
 {
   "cesp_version": "1.0",
-  "name": "stronghold-caliph",
+  "name": "caliph",
   "display_name": "The Caliph (Stronghold Crusader)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Marko Jevic",
     "github": "koyev"

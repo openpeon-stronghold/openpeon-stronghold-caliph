@@ -1,32 +1,36 @@
-# stronghold-caliph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/openpeon-stronghold/caliph/main/icon.png" width="128" alt="The Caliph">
+</p>
+
+<h1 align="center">The Caliph</h1>
 
 The Caliph sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Caliph in Stronghold Crusader.
 
 ## Install
 
 ```bash
-peon packs install stronghold-caliph
+peon packs install caliph
 ```
 
 ## Sounds
 
 | Category | File | Label |
 |---|---|---|
-| `session.start` | ca_add_player_01.wav | Infidel! |
-| `task.acknowledge` | ca_willattack_01.wav | Yes! |
-| `task.acknowledge` | ca_sent_01.wav | I have sent your goods |
-| `task.acknowledge` | ca_siege_01.wav | Watch and learn |
-| `task.complete` | ca_vict_01.wav | You are weak, infidel |
-| `task.complete` | ca_boast_01.wav | Dispose of all foes |
-| `task.complete` | ca_vict_04.wav | They all fall before me |
-| `task.error` | ca_anger_01.wav | You test my patience |
-| `task.error` | ca_anger_02.wav | You dare invade my lands |
-| `input.required` | ca_help_01.wav | Send your fastest man |
-| `input.required` | ca_req_01.wav | I need goods |
-| `resource.limit` | ca_notsent_01.wav | You ask the impossible |
-| `resource.limit` | ca_nohelp_02.wav | Will not waste my men |
-| `user.spam` | ca_noattack_01.wav | Do you take me for a fool |
-| `user.spam` | ca_kick_player_01.wav | Infidel |
+| `session.start` | ca_add_player_01.mp3 | Infidel! |
+| `task.acknowledge` | ca_willattack_01.mp3 | Yes! |
+| `task.acknowledge` | ca_sent_01.mp3 | I have sent your goods |
+| `task.acknowledge` | ca_siege_01.mp3 | Watch and learn |
+| `task.complete` | ca_vict_01.mp3 | You are weak, infidel |
+| `task.complete` | ca_boast_01.mp3 | Dispose of all foes |
+| `task.complete` | ca_vict_04.mp3 | They all fall before me |
+| `task.error` | ca_anger_01.mp3 | You test my patience |
+| `task.error` | ca_anger_02.mp3 | You dare invade my lands |
+| `input.required` | ca_help_01.mp3 | Send your fastest man |
+| `input.required` | ca_req_01.mp3 | I need goods |
+| `resource.limit` | ca_notsent_01.mp3 | You ask the impossible |
+| `resource.limit` | ca_nohelp_02.mp3 | Will not waste my men |
+| `user.spam` | ca_noattack_01.mp3 | Do you take me for a fool |
+| `user.spam` | ca_kick_player_01.mp3 | Infidel |
 
 ## Extras
 
@@ -34,24 +38,24 @@ The `sounds/extras/` folder contains all remaining voice lines from The Caliph t
 
 | File | Type |
 |---|---|
-| ca_ally_death_01.wav | ally died |
-| ca_congrats_01.wav | congratulations |
-| ca_extra_01.wav | extra line |
-| ca_helpsent_01.wav | help sent |
-| ca_nervous_01.wav | nervous |
-| ca_nervous_02.wav | nervous |
-| ca_noattack_02.wav | refuse attack |
-| ca_nohelp_01.wav | refuse help |
-| ca_plead_01.wav | plead |
-| ca_taunt_01.wav | taunt |
-| ca_taunt_02.wav | taunt |
-| ca_taunt_03.wav | taunt |
-| ca_taunt_04.wav | taunt |
-| ca_team_losing_01.wav | team losing |
-| ca_team_winning_01.wav | team winning |
-| ca_thanks_01.wav | thanks |
-| ca_vict_02.wav | victory |
-| ca_vict_03.wav | victory |
+| ca_ally_death_01.mp3 | ally died |
+| ca_congrats_01.mp3 | congratulations |
+| ca_extra_01.mp3 | extra line |
+| ca_helpsent_01.mp3 | help sent |
+| ca_nervous_01.mp3 | nervous |
+| ca_nervous_02.mp3 | nervous |
+| ca_noattack_02.mp3 | refuse attack |
+| ca_nohelp_01.mp3 | refuse help |
+| ca_plead_01.mp3 | plead |
+| ca_taunt_01.mp3 | taunt |
+| ca_taunt_02.mp3 | taunt |
+| ca_taunt_03.mp3 | taunt |
+| ca_taunt_04.mp3 | taunt |
+| ca_team_losing_01.mp3 | team losing |
+| ca_team_winning_01.mp3 | team winning |
+| ca_thanks_01.mp3 | thanks |
+| ca_vict_02.mp3 | victory |
+| ca_vict_03.mp3 | victory |
 
 ## Generic speeches
 

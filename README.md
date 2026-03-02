@@ -6,6 +6,8 @@
 
 The Caliph sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Caliph in Stronghold Crusader.
 
+The Caliph is a proud and honourable desert lord who commands respect through measured diplomacy and quiet strength. He is slow to anger but formidable in war, and holds his word as sacred — making him one of the more trustworthy allies in the Crusader campaign.
+
 ## Install
 
 ```bash
